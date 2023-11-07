@@ -1,0 +1,7 @@
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

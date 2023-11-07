@@ -1,0 +1,7 @@
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
