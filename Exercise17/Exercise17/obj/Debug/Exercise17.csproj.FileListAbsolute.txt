@@ -1,0 +1,7 @@
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\bin\Debug\Exercise17.exe.config
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\bin\Debug\Exercise17.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\bin\Debug\Exercise17.pdb
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\obj\Debug\Exercise17.csproj.AssemblyReference.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\obj\Debug\Exercise17.csproj.CoreCompileInputs.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\obj\Debug\Exercise17.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise17\Exercise17\obj\Debug\Exercise17.pdb

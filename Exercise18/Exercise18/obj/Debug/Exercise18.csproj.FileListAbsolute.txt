@@ -1,0 +1,7 @@
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\bin\Debug\Exercise18.exe.config
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\bin\Debug\Exercise18.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\bin\Debug\Exercise18.pdb
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\obj\Debug\Exercise18.csproj.AssemblyReference.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\obj\Debug\Exercise18.csproj.CoreCompileInputs.cache
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\obj\Debug\Exercise18.exe
+D:\PODACI\System\Desktop\C# Basics for Beginners\Exercises\Exercise18\Exercise18\obj\Debug\Exercise18.pdb
